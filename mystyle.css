@@ -1,0 +1,22 @@
+<style>
+        body {
+            font-family: verdana;
+        }
+        img {
+             width:200px; height:107px;
+        }
+        table {
+            border-spacing: 15px;
+            align-self: center;
+        }
+        #links {
+            font-style: italic;
+        }
+        .links-info {
+            color: deepskyblue;
+            width: 50%;
+        }
+        a:hover {
+            color:green;
+        }
+    </style>
